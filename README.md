@@ -10,6 +10,7 @@ using : C/C++ , Swift/SwiftUI , Python , Darknet , Jetson AGX Xavier
 
 code : This project is private. 
 
-The project is to steer by iOS App using only image recognition results. MoreInfo
+The project is to steer by iOS App using only image recognition results. more info
 
 ## 2022 NHK Kosen Robokon
+using : C/C++ , Python , ROS2(planning) , Jetson , Ubuntu , Swift/SwiftUI(planning)
