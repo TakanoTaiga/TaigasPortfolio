@@ -10,11 +10,15 @@ using : `C/C++` , `Swift/SwiftUI` , `Python` , `Darknet` , `Jetson AGX Xavier`
 
 code : This project is private. 
 
-This project is to steer by iOS App using only image recognition results. more info
+This project is to steer by iOS App using only image recognition results.I am in charge of overall programming. 
+
+more info
 
 ## 2022 NHK Kosen Robokon
 using : `C/C++` , `Python` , `Swift/SwiftUI(in planning)` , `KiCAD` , `ROS2(in planning)` , `Jetson` , `Ubuntu` 
 
 code : coming soon
 
-This project is to fly paper airplanes from a robot.
+This project is to fly paper airplanes from a robot.I am in charge of overall programming and circuit design.
+
+## iOS App (Personal development)
