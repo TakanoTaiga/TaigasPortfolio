@@ -12,7 +12,7 @@ code : This project is private.
 
 This project is to steer by iOS App using only image recognition results.I am in charge of overall programming. 
 
-[more info(Github)]()
+[more info(Github)](https://github.com/TakanoTaiga/TaigasPortfolio/blob/main/2021NHKRobokon.md)
 
 ## 2022 NHK Kosen Robokon
 using : `C/C++` , `Python` , `Swift/SwiftUI(in planning)` , `KiCAD` , `ROS2(in planning)` , `Jetson` , `Ubuntu` 
