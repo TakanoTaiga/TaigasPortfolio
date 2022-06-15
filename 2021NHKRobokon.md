@@ -10,4 +10,5 @@ This project is to steer by iOS App using only image recognition results.
 - Some robotic mechanical design (Solid Edge)
 
 ## Robot controller app (iOS)
+using : Swift/SwiftUI
 ![Controller](https://user-images.githubusercontent.com/53041471/173721910-1724c59b-f6ff-4e2f-9582-f582dc8940be.png)
