@@ -27,3 +27,8 @@ using : `Swift/SwiftUI`
 I started developing this product when I heard that teachers needed to use it in their classes. Here I learned about the procedure for publishing and localizing the application.
 
 [App page link](https://apps.apple.com/jp/app/simple-dice/id1597935053?l=en)
+
+## VR Game
+using : `Unity` , `MixedRealityToolKit(MRTK)`
+
+When I was in junior high school, I created a VR game and participated in the U-16 Programming Contest and the PCN Kodomo Programming Contest.　The company received a sponsorship award in the PNC Kodoomo Programming Contest and a silver award in the U-16 Programming Contest.
