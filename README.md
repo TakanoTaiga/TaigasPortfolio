@@ -12,7 +12,7 @@ code : This project is private.
 
 This project is to steer by iOS App using only image recognition results.I am in charge of overall programming. 
 
-more info
+[more info(Github)]()
 
 ## 2022 NHK Kosen Robokon
 using : `C/C++` , `Python` , `Swift/SwiftUI(in planning)` , `KiCAD` , `ROS2(in planning)` , `Jetson` , `Ubuntu` 
@@ -21,12 +21,14 @@ code : coming soon
 
 This project is to fly paper airplanes from a robot.I am in charge of overall programming and circuit design.
 
+[more info(Github)]()
+
 ## iOS App (Personal development)
 using : `Swift/SwiftUI`
 
 I started developing this product when I heard that teachers needed to use it in their classes. Here I learned about the procedure for publishing and localizing the application.
 
-[App page link](https://apps.apple.com/jp/app/simple-dice/id1597935053?l=en)
+[App page link(Apple App Store)](https://apps.apple.com/jp/app/simple-dice/id1597935053?l=en)
 
 ## VR Game
 using : `Unity` , `MixedRealityToolKit(MRTK)`
