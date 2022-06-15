@@ -22,5 +22,8 @@ code : coming soon
 This project is to fly paper airplanes from a robot.I am in charge of overall programming and circuit design.
 
 ## iOS App (Personal development)
-using : `Swift/SwiftUI(in planning)`
+using : `Swift/SwiftUI`
+
 I started developing this product when I heard that teachers needed to use it in their classes. Here I learned about the procedure for publishing and localizing the application.
+
+App page link
