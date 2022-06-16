@@ -21,7 +21,7 @@ code : coming soon
 
 This project is to fly paper airplanes from a robot.I am in charge of overall programming and circuit design.
 
-[more info(Github)]()
+[more info(Github)](https://github.com/TakanoTaiga/TaigasPortfolio/blob/main/2022NHKRobokon.md)
 
 ## iOS App (Personal development)
 using : `Swift/SwiftUI`
