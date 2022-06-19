@@ -10,4 +10,7 @@ This project is to fly paper airplanes from a robot.
 - Robotic mechanical design (Fusion360)
 and more. 
 
-### More details will be available soon.
+## Pcitures
+![IMG_4247](https://user-images.githubusercontent.com/53041471/174480059-bf511991-3504-45ff-9e8d-d38dd47e8663.jpeg)
+
+## More details will be available soon.
