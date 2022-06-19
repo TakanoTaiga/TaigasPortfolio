@@ -6,7 +6,7 @@ Hello I'm Taiga,Hakodate National College of Technology Student and Robotics clu
 # Programming
 I love programming and have tried many things!
 ## 2021 NHK Kosen Robokon
-using : `C/C++` , `Swift/SwiftUI` , `Python` , `Darknet` , `Jetson AGX Xavier`
+using : `C/C++` , `Swift/SwiftUI` , `Python` , `Darknet` , `Ubuntu(L4T)` ,`Jetson AGX Xavier`
 
 code : This project is private. 
 
@@ -15,7 +15,7 @@ This project is to steer by iOS App using only image recognition results.I am in
 [more info(Github)](https://github.com/TakanoTaiga/TaigasPortfolio/blob/main/2021NHKRobokon.md)
 
 ## 2022 NHK Kosen Robokon
-using : `C/C++` , `Python` , `Swift/SwiftUI(in planning)` , `KiCAD` , `ROS2(in planning)` , `Jetson` , `Ubuntu` 
+using : `C/C++` , `Python` , `Swift/SwiftUI(in planning)` , `KiCAD` , `ROS2(in planning)` , `Jetson` , `Ubuntu(L4T)` 
 
 code : coming soon
 
