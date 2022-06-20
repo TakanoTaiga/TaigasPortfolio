@@ -9,6 +9,9 @@ This project is to steer by iOS App using only image recognition results.
 - Motor ESC contorller progam (Arduino)
 - Some robotic mechanical design (Solid Edge)
 
+## system architecture
+![SysArch](https://user-images.githubusercontent.com/53041471/174505594-b5080ec8-a9db-469e-a45b-7efadd058075.png)
+
 ## Robot controller app (iOS)
 using : Swift/SwiftUI
 ![Controller](https://user-images.githubusercontent.com/53041471/173721910-1724c59b-f6ff-4e2f-9582-f582dc8940be.png)
