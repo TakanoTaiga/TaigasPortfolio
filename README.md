@@ -10,7 +10,7 @@ using : `C/C++` , `Swift/SwiftUI` , `Python` , `Darknet` , `Ubuntu(L4T)` ,`Jetso
 
 code : This project is private. 
 
-This project is to steer by iOS App using only image recognition results.I am in charge of overall programming. 
+This project is to steer by iOS App using only image recognition results. I am in charge of overall programming. 
 
 [more info(Github)](https://github.com/TakanoTaiga/TaigasPortfolio/blob/main/2021NHKRobokon.md)
 
@@ -19,7 +19,7 @@ using : `C/C++` , `Python` , `Swift/SwiftUI(in planning)` , `KiCAD` , `ROS2(in p
 
 code : coming soon
 
-This project is to fly paper airplanes from a robot.I am in charge of overall programming and circuit design.
+This project is to fly paper airplanes from a robot. I am in charge of overall programming and circuit design.
 
 [more info(Github)](https://github.com/TakanoTaiga/TaigasPortfolio/blob/main/2022NHKRobokon.md)
 
