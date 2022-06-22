@@ -5,6 +5,9 @@ Hello I'm Taiga,Hakodate National College of Technology Student and Robotics clu
 
 # Programming
 I love programming and have tried many things!
+
+書いてきた物 : `C/C++(52.3%)` , `Swift(30.0%)` , `Python(13.3%)` , `Other(4.4%)`
+
 ## 2021 NHK Kosen Robokon
 using : `C/C++` , `Swift/SwiftUI` , `Python` , `Darknet` , `Ubuntu(L4T)` ,`Jetson AGX Xavier`
 
